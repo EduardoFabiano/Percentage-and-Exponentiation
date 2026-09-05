@@ -3,7 +3,7 @@ Arithmetic 1
 # Percentage and Exponentiation 
 
 # Description:
-this script calculates percentage and exponentiation.
+This script calculates percentages and exponentiation, including negative, fractional, and negative fractional exponents.
 
 # Installation:
 ```bash
