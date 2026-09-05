@@ -1,0 +1,19 @@
+# PYTHON
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# C
+*.exe
+*.out
+*.o
+programa
+
+# CONFIGURAÇÕES E IDEs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
