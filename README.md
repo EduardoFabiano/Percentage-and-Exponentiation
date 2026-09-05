@@ -1,18 +1,19 @@
-Name
+Arithmetic 1 
 
-# Name of project
+# Percentage and Exponentiation 
 
 # Description:
+this script calculates percentage and exponentiation.
 
 # Installation:
 ```bash
-git clone https://github.com/EduardoFabiano (repository name)
-cd Repository-Name
+git clone https://github.com/EduardoFabiano/Percentage-and-Exponetiation
+cd Percentage-and-Exponetiation
 
 Execute with:
 
-repository name.extension
+percentage-and-exponetiation.py
 ```
 # Technology Used:
 
-Programming language (name)
+Programming language Python
